@@ -5,7 +5,9 @@ private prediction markets on solana
 ---
 
 author: francis
+
 version: 1.0
+
 date: february 2026
 
 ---
@@ -392,9 +394,11 @@ i built this brick by brick. now it is time to ship.
 
 links
 
-github: github.com/francis-codex/parasite-protocol
-seedless: github.com/francis-codex/seedless
-twitter: @seedless_wallet
+github: [github.com/francis-codex/parasite-protocol](https://github.com/francis-codex/parasite-protocol)
+
+seedless: [github.com/francis-codex/seedless](https://github.com/francis-codex/seedless)
+
+twitter:[ @seedless_wallet](https://x.com/seedless_wallet)
 
 ---
 
